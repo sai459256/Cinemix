@@ -1,2 +1,2 @@
-# Netflix
-Just a netflix clone
+# Cinemix
+Stream your favourite movies from anywhere.
